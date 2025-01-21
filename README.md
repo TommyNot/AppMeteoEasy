@@ -19,11 +19,11 @@ Una semplice applicazione meteo realizzata con **HTML, CSS e JavaScript**, che u
 
 1. Clona il repository:
    ```sh
-   git clone https://github.com/tuo-username/weather-app.git
+   git clone https://github.com/TommyNot/AppMeteoEasy.git
    ```
 2. Entra nella cartella del progetto:
    ```sh
-   cd weather-app
+   cd AppMeteoEasy
    ```
 3. Apri `index.html` con un browser.
 
