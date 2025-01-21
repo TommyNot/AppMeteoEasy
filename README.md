@@ -1,4 +1,4 @@
-# Weather App
+# App Meteo Easy
 
 Una semplice applicazione meteo realizzata con **HTML, CSS e JavaScript**, che utilizza un'API per ottenere i dati meteorologici in tempo reale.
 
